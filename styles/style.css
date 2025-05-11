@@ -122,7 +122,6 @@
   object-fit: cover;
 }
 
-/* ФИЛЬТРЫ ДЛЯ КАРТИНОК */
 .image-filter-contrast_high {
   filter: contrast(110%);
 }
