@@ -2,6 +2,7 @@
 :root {
     --accent-font: 'PressStart2P';
     --main-font: 'Inter-Variable';
+    --font-size:18px;
     --font-weight-L: 700;
     --font-weight-main: 400;
     --text-stroke-color: #fff;
